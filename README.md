@@ -1,6 +1,6 @@
 # Invisibility cloak
 
-## About the project##
+## About the project ##
 This is my first of opencv project. I used simple opencv and numpy for this.
 
 ## Prereqisite ##
